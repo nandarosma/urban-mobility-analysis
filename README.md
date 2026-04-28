@@ -5,7 +5,7 @@ This project analyzes ride-hailing data to understand urban mobility patterns ba
 The dataset used in this project contains historical ride-hailing pickup data, including timestamps and geographic coordinates (latitude and longitude).
 Although the dataset is from 2014, the observed mobility patterns remain relevant for modern ride-hailing platforms.
 https://www.kaggle.com/datasets/fivethirtyeight/uber-pickups-in-new-york-city
-#-Tools & Technologies
+-Tools & Technologies
 Python (Pandas, Matplotlib, Seaborn), Google Colab
 -Data Analysis Process
 1. Data Cleaning
