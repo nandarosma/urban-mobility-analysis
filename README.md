@@ -31,3 +31,12 @@ Visualized geographic pickup distribution
 ![Pickup by Hour](Hour.png)
 
 The distribution of ride-hailing pickups shows a clear increase starting in the morning and peaking in the evening (around 17:00–18:00). This indicates strong commuting patterns, where users rely on ride-hailing services primarily for work-related travel.
+
+2. Pickup by Day
+
+
+Pickups are more frequent on weekdays compared to weekends, suggesting that the service is mainly used for daily mobility such as commuting to work. Lower activity on weekends reflects reduced professional travel demand.
+
+3. Pickup Density Map
+
+The geographic distribution reveals that most pickups are concentrated in central urban areas. This highlights zones with high economic and social activity, where transportation demand is consistently strong
