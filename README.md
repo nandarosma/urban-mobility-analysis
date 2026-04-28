@@ -28,4 +28,5 @@ Visualized geographic pickup distribution
 -Data Visualization & Insights
 1. Pickup by Hour
 
+!Hour.png
 The distribution of ride-hailing pickups shows a clear increase starting in the morning and peaking in the evening (around 17:00–18:00). This indicates strong commuting patterns, where users rely on ride-hailing services primarily for work-related travel.
