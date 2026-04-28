@@ -42,4 +42,19 @@ Pickups are more frequent on weekdays compared to weekends, suggesting that the 
 
 ![Pickup by Hour](Map.png)
 
-The geographic distribution reveals that most pickups are concentrated in central urban areas. This highlights zones with high economic and social activity, where transportation demand is consistently strong
+The geographic distribution reveals that most pickups are concentrated in central urban areas. This highlights zones with high economic and social activity, where transportation demand is consistently strong.
+
+-Key Insight
+
+Ride-hailing demand peaks during commuting hours, particularly in the evening (around 17:00–18:00), and is highly concentrated in central urban areas.
+This pattern highlights an opportunity for platforms like Grab to optimize dynamic driver allocation, improving service efficiency and reducing customer waiting time.
+
+-Conclusion
+
+The analysis reveals consistent urban mobility patterns driven by work-related commuting behavior. These insights can be leveraged to improve operational strategies in ride-hailing services, particularly in driver distribution and demand management.
+
+-Future Improvement
+
+1. Incorporate more recent datasets for trend comparison
+2. Apply predictive modeling for demand forecasting
+3. Explore real-time data integration.
