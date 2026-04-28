@@ -34,9 +34,12 @@ The distribution of ride-hailing pickups shows a clear increase starting in the 
 
 2. Pickup by Day
 
+![Pickup by Hour](Day.png)
 
 Pickups are more frequent on weekdays compared to weekends, suggesting that the service is mainly used for daily mobility such as commuting to work. Lower activity on weekends reflects reduced professional travel demand.
 
 3. Pickup Density Map
+
+![Pickup by Hour](Map.png)
 
 The geographic distribution reveals that most pickups are concentrated in central urban areas. This highlights zones with high economic and social activity, where transportation demand is consistently strong
